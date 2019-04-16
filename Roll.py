@@ -8,7 +8,6 @@ print("yes or no")
 
 ## userinput
 userinput = input (': ')[0].lower()
-print(userinput)
 
 ## ensure correct userinput
 while userinput not in ["y","n"]:
